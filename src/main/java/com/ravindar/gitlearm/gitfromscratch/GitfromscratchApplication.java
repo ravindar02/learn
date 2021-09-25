@@ -13,6 +13,7 @@ public class GitfromscratchApplication {
 		//Second test
 		SpringApplication.run(GitfromscratchApplication.class, args);
 		//random check
+		//addition of a new data
 	}
 
 }
