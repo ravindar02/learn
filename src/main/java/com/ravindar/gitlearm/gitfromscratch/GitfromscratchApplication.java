@@ -10,12 +10,7 @@ public class GitfromscratchApplication {
 
 	public static void main(String[] args) {
 		System.out.println("args = " + Arrays.deepToString(args));
-		//Second test
-		SpringApplication.run(GitfromscratchApplication.class, args);
-		//random check
-		//addition of a new data
-		//New file further added
-		//in branch
+		//changed to new data
 	}
 
 }
